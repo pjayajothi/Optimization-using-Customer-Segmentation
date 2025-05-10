@@ -17,6 +17,14 @@ Data Set - <a href ="https://www.kaggle.com/datasets/arjunbhasin2013/ccdata?reso
 - **PowerPoint** for stakeholder presentation
 
 ---
+## 🧠 Skills Demonstrated
+
+- Data cleaning and preprocessing
+- Exploratory data analysis and visualization
+- Customer segmentation using unsupervised learning
+- Business case communication using visuals
+
+---
 
 ## 🔍 Key Steps
 
@@ -53,12 +61,12 @@ Data Set - <a href ="https://www.kaggle.com/datasets/arjunbhasin2013/ccdata?reso
 ## 📂 Repository Contents
 | File/Folder | Description |
 |-------------|-------------|
-| `notebooks/` | Jupyter notebooks for each analysis stage |
-| `data/` | Sample input and cleaned data |
-| `visuals/` | Cluster plots and lift charts |
-| `presentation/` | Final business-style presentation PDF |
-| `README.md` | This documentation |
-| `requirements.txt` | Python environment dependencies |
+| `raw_data.csv`| Raw dataset containing credit card usage data.
+| `cleaned_data.csv`| Cleaned version of the dataset ready for analysis.
+| `cluster_plot.png`| Visualization of customer clusters.
+| `revenue_uplift_comparison.png`| Chart comparing revenue from old vs. new targeting strategies.
+| `requirements.txt`| Python dependencies.
+| `notebook.ipynb`| Jupyter notebook with full analysis.
 
 ---
 
@@ -71,3 +79,6 @@ Data Set - <a href ="https://www.kaggle.com/datasets/arjunbhasin2013/ccdata?reso
 
 ## ✍️ Author
 Pujaa Jayajothi – Business/Data Analyst | Security-aware | Data-Driven Storyteller  
+
+
+
