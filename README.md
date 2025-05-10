@@ -2,7 +2,7 @@
 
 ## 🧠 Overview
 This project analyzes customer behavior data to improve the targeting strategy for a fictional credit card product. The goal was to use clustering to identify high-value segments, simulate performance of a new campaign, and deliver data-driven recommendations.
-
+Data Set - <a href ="https://www.kaggle.com/datasets/arjunbhasin2013/ccdata?resource=download&SSORegistrationToken=CfDJ8KvMat0eHzhGoPokVBGB7D3gy419ugFJ9BPG6Obi1qf88upUVSG6iaQZPZBT-6OfJ3NCM0Quowj-km4ANMlEd6YlMtC1z0nD84rdBgeOmt9iIUgJEU6BovFtF4JZx7Ql5RxMX-a5QmxuCKdddaEy91zGAobunsuWGMTNo7fsW9n6o1T6m-wYfUc2huhiUY20ZF0rlUvlexkfqWuHv-CUSsaqTSLVUoqfUIpIEX8LCUbU0PjzgqAnHWImKEtObVkfvu46Md5TCjvsL9byPXS4EDvvtLo5Hms5OhF7LkYDZwIWP7ZR-gr1YdLSj7Ahjm889qX02x7HUn8lULJ4yLHh3gkpgQ&DisplayName=rosy%20j"> Credit Card Dataset for Clustering </a> by Arjun Bhasin.
 ---
 
 ## 📊 Problem Statement
