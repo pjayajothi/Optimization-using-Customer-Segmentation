@@ -64,9 +64,11 @@ Data Set - <a href ="https://www.kaggle.com/datasets/arjunbhasin2013/ccdata?reso
 | `raw_data.csv`| Raw dataset containing credit card usage data.
 | `cleaned_data.csv`| Cleaned version of the dataset ready for analysis.
 | `cluster_plot.png`| Visualization of customer clusters.
-| `revenue_uplift_comparison.png`| Chart comparing revenue from old vs. new targeting strategies.
+| `lift-chart.png` | Revenue comparison between targeting strategies
 | `requirements.txt`| Python dependencies.
-| `notebook.ipynb`| Jupyter notebook with full analysis.
+| `results_simulation_and_visuals.ipynb`| Revenue simulation, lift chart
+| `data_cleaning_and_eda.ipynb` | Data cleaning and initial exploration
+| `segmentation_modeling.ipynb`| KMeans clustering and PCA
 
 ---
 
