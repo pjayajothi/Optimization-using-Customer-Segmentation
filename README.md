@@ -69,6 +69,7 @@ Data Set - <a href ="https://www.kaggle.com/datasets/arjunbhasin2013/ccdata?reso
 | `results_simulation_and_visuals.ipynb`| Revenue simulation, lift chart
 | `data_cleaning_and_eda.ipynb` | Data cleaning and initial exploration
 | `segmentation_modeling.ipynb`| KMeans clustering and PCA
+|`simple excel dashboard`| Simple visual charts depicting data
 
 ---
 
